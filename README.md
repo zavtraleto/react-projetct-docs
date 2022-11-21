@@ -36,6 +36,14 @@ Other directories description:
 
 ### `assets/`
 Here we store our global styling in `styles/` directory, images and icons in `img/` directory and `fonts/` are used as fonts storage.
+```
+AxxisAdmin_React/
+└── src/
+   ├── assets/ 
+      ├── fonts/
+      ├── images/
+      └── styles/
+```
 
 ### `store/`
 Here we got our Redux Store core file. Also here we could store shared logic (global selectors etc.)
@@ -43,3 +51,9 @@ Here we got our Redux Store core file. Also here we could store shared logic (gl
 ### `utils/`
 Utils are used for global utilities stuff (e.g axios request logic\interceptors). 
 Storing global constants and all other stuff that can be global for the project
+
+
+# Components/Featurs organization
+
+
+
