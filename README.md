@@ -22,7 +22,7 @@ directory will be function-based components. Stuff like buttons, inputs,
 labels and all presentational components goes here. 
 
 ### `features/`
-Feature components can store state. Containers are built mostly from
+Feature components can store state. Features are built mostly from
 the composition of presentational components with some styles to layout
 them together. They can dispatch Redux actions when applicable
 
